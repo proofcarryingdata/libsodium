@@ -1,3 +1,12 @@
+# Zupass libsodium fork
+
+This repository is a fork of libsodium, with a custom build configuration to
+produce a smaller distributable, tuned for the needs of the Zupass project.
+
+See the commit history for changes to the standard libsodium.
+
+Below is the regular README.
+
 [![GitHub CI](https://github.com/jedisct1/libsodium/workflows/CI/badge.svg)](https://github.com/jedisct1/libsodium/actions)
 [![Windows build status](https://ci.appveyor.com/api/projects/status/fu8s2elx25il98hj?svg=true)](https://ci.appveyor.com/project/jedisct1/libsodium)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2397/badge.svg)](https://scan.coverity.com/projects/2397)
